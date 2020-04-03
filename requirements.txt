@@ -157,7 +157,7 @@ python-socketio==3.1.2
 python-telegram-bot==11.1.0
 pytz==2018.9
 pywikibot==3.0.dev0
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.4.3

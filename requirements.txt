@@ -152,7 +152,7 @@ python-apt==1.6.5+ubuntu0.2
 python-crfsuite==0.9.6
 python-dateutil==2.8.1
 python-debian==0.1.32
-python-engineio==3.4.3
+python-engineio==3.8.2.post1
 python-socketio==3.1.2
 python-telegram-bot==11.1.0
 pytz==2018.9

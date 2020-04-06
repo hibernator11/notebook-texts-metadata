@@ -4,7 +4,7 @@
 This dataset is based on the descriptive metadata from the [Moving Image Archive catalogue](https://data.nls.uk/data/metadata-collections/moving-image-archive/), which is Scotland’s national collection of moving images.
 
 # notebook-marc-csv-example
-Example of notebook to extract a dataset as a CSV file from a digital collection described using marc xml files. [View in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
+Example of notebook to extract a dataset as a CSV file from a digital collection described using marc xml files. [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
 
 # References
 The [GLAM Workbench](https://glam-workbench.github.io/) has been used as inspiration to create this example. In particular, the notebook [Exploring metadata harvested from the Tribune negative collection in the State Library of NSW](https://nbviewer.jupyter.org/github/GLAM-Workbench/ozglam-data-records-of-resistance/blob/master/Exploring-Tribune-negatives-metadata.ipynb).

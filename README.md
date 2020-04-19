@@ -1,10 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-marc-csv-example/master)
 
-## Digital collection 
-This dataset is based on the descriptive metadata from the [Moving Image Archive catalogue](https://data.nls.uk/data/metadata-collections/moving-image-archive/), which is Scotland’s national collection of moving images.
-
 # notebook-marc-csv-example
 Example of notebook to extract a dataset as a CSV file from a digital collection described using marc xml files. [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
+
+This notebook uses a dataset of descriptive metadata from the [Moving Image Archive catalogue](https://data.nls.uk/data/metadata-collections/moving-image-archive/), which is Scotland’s national collection of moving images.
 
 # topic-modeling-billing
 Example of notebook to extract the most common words in a corpus of text documents. This notebook is an example of Topic Modeling based on Digitised Volumes of theatrical English, Scottish, and Irish playbills between 1600 - 1902 from [data.bl.uk](data.bl.uk). [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/topic-modeling-billing.ipynb)

@@ -7,7 +7,7 @@ This dataset is based on the descriptive metadata from the [Moving Image Archive
 Example of notebook to extract a dataset as a CSV file from a digital collection described using marc xml files. [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
 
 # topic-modeling-billing
-Topic Modeling based on Digitised Volumes of theatrical English, Scottish, and Irish playbills between 1600 - 1902 from [data.bl.uk](data.bl.uk). [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/topic-modeling-billing.ipynb)
+Example of notebook to extract the most common words in a corpus of text documents. This notebook is an example of Topic Modeling based on Digitised Volumes of theatrical English, Scottish, and Irish playbills between 1600 - 1902 from [data.bl.uk](data.bl.uk). [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/topic-modeling-billing.ipynb)
 
 ![Topic modeling](images/topic-modeling.png)
 

@@ -1,0 +1,265 @@
+Ingestion Order,Shelf Mark,Volume,PID,Create Date,File Name (.PDF),Path,File Size (MB),LSID
+2,Playbills 1,Playbills 1,373904,3 de sep de 10,015376973_313_Playbills 1,/2010/09/03/file_1/373904,"156,38",3f9b9a08
+12,Playbills 10,Playbills 10,379308,7 de sep de 10,014933523_1305_Playbills 10,/2010/09/07/file_4/379308,"185,7",3f9c9e0f
+101,Playbills 100,Playbills 100,435983,21 de sep de 10,015176783_1333_Playbills 100,/2010/09/21/file_6/435983,"294,12",400ce74c
+103,Playbills 101 ,Playbills 101 (1),436802,21 de sep de 10,015176791_2150_Playbills 101 (1),/2010/09/21/file_7/436802,"70,98",400ce5c3
+105,Playbills 101 ,Playbills 101 (2),437629,21 de sep de 10,015176791_2975_Playbills 101 (2),/2010/09/21/file_8/437629,"75,05",400c8a20
+99,Playbills 102,Playbills 102,435118,21 de sep de 10,015176802_470_Playbills 102,/2010/09/21/file_6/435118,"86,42",400cedb2
+100,Playbills 103 ,Playbills 103 (1),435635,21 de sep de 10,015290261_986_Playbills 103 (1),/2010/09/21/file_6/435635,"228,09",400ce91e
+98,Playbills 103 ,Playbills 103 (2),434844,21 de sep de 10,015290261_197_Playbills 103 (2),/2010/09/21/file_5/434844,"66,11",400cea84
+102,Playbills 104 ,Playbills 104 (1),436592,21 de sep de 10,015299283_1941_Playbills 104 (1),/2010/09/21/file_7/436592,"279,16",400cef81
+109,Playbills 104 ,Playbills 104 (2),439077,21 de sep de 10,015299283_1236_Playbills 104 (2),/2010/09/21/file_10/439077,"55,15",400e6f9f
+107,Playbills 105,Playbills 105,438471,21 de sep de 10,015299288_632_Playbills 105,/2010/09/21/file_9/438471,"380,19",400e71ef
+110,Playbills 106,Playbills 106,439234,21 de sep de 10,015176835_1392_Playbills 106,/2010/09/21/file_10/439234,"116,77",400e6de9
+108,Playbills 107 ,Playbills 107 (1),438810,21 de sep de 10,015177029_970_Playbills 107 (1),/2010/09/21/file_9/438810,"71,93",400e70d8
+106,Playbills 107 ,Playbills 107 (2),437937,21 de sep de 10,015177029_99_Playbills 107 (2),/2010/09/21/file_8/437937,"285,59",400d85a1
+117,Playbills 109,Playbills 109,442118,22 de sep de 10,015384366_2511_Playbills 109,/2010/09/22/file_3/442118,"30,52",4045b65a
+10,Playbills 11,Playbills 11,378561,7 de sep de 10,014933531_560_Playbills 11,/2010/09/07/file_3/378561,"241,64",3f9ca137
+115,Playbills 110,Playbills 110,441228,22 de sep de 10,015384371_1623_Playbills 110,/2010/09/22/file_2/441228,"20,62",4045aa38
+114,Playbills 111,Playbills 111,441006,22 de sep de 10,015384376_1402_Playbills 111,/2010/09/22/file_2/441006,"18,65",4045b543
+116,Playbills 112,Playbills 112,441531,22 de sep de 10,015384386_1925_Playbills 112,/2010/09/22/file_2/441531,"42,42",4045ad2a
+121,Playbills 113,Playbills 113,443768,22 de sep de 10,015384705_4157_Playbills 113,/2010/09/22/file_5/443768,"17,32",4045ae7b
+113,Playbills 114,Playbills 114,440627,22 de sep de 10,015384730_1024_Playbills 114,/2010/09/22/file_2/440627,"37,41",40459c5e
+122,Playbills 115,Playbills 115,443835,22 de sep de 10,015384741_4223_Playbills 115,/2010/09/22/file_5/443835,"38,33",4045a8a9
+120,Playbills 116,Playbills 116,443498,22 de sep de 10,015177049_3888_Playbills 116,/2010/09/22/file_4/443498,"57,56",4045ab5a
+118,Playbills 117,Playbills 117,442289,22 de sep de 10,015177079_2681_Playbills 117,/2010/09/22/file_3/442289,"68,85",4045b355
+111,Playbills 118,Playbills 118,439979,22 de sep de 10,015177135_378_Playbills 118,/2010/09/22/file_1/439979,"87,85",4045a654
+119,Playbills 119 ,Playbills 119 (1),443009,22 de sep de 10,015177525_3400_Playbills 119 (1),/2010/09/22/file_4/443009,"221,61",4045a497
+112,Playbills 119 ,Playbills 119 (2),440231,22 de sep de 10,015177525_629_Playbills 119 (2),/2010/09/22/file_1/440231,"242,64",40459ab7
+11,Playbills 12,Playbills 12,379028,7 de sep de 10,014933546_1026_Playbills 12,/2010/09/07/file_3/379028,"270,38",3f9c9f8e
+126,Playbills 120 ,Playbills 120 (1),445492,22 de sep de 10,015211288_1250_Playbills 120 (1),/2010/09/22/file_6/445492,"51,82",4059a158
+129,Playbills 120 ,Playbills 120 (2),446489,22 de sep de 10,015211288_2244_Playbills 120 (2),/2010/09/22/file_7/446489,"44,43",405acd5
+125,Playbills 121 ,Playbills 121 (1),445252,22 de sep de 10,015211296_1011_Playbills 121 (1),/2010/09/22/file_6/445252,"185,57",40594f71
+134,Playbills 121 ,Playbills 121 (2),448208,22 de sep de 10,015211296_3958_Playbills 121 (2),/2010/09/22/file_9/448208,"38,9",40599d5e
+130,Playbills 122 ,Playbills 122 (1),446956,22 de sep de 10,015211305_2710_Playbills 122 (1),/2010/09/22/file_8/446956,"51,7",4059a584
+127,Playbills 122 ,Playbills 122 (2),446001,22 de sep de 10,015211305_1758_Playbills 122 (2),/2010/09/22/file_7/446001,"53,97",4059a00a
+133,Playbills 123 ,Playbills 123 (1),447876,22 de sep de 10,015211317_3627_Playbills 123 (1),/2010/09/22/file_9/447876,"45,58",4059a45f
+123,Playbills 123 ,Playbills 123 (2),444378,22 de sep de 10,015211317_139_Playbills 123 (2),/2010/09/22/file_5/444378,"61,44",4059a80b
+124,Playbills 126 ,Playbills 126 (1),444998,22 de sep de 10,015299291_758_Playbills 126 (1),/2010/09/22/file_6/444998,"135,53",MISSING
+128,Playbills 126 ,Playbills 126 (2),446116,22 de sep de 10,015299291_1872_Playbills 126 (2),/2010/09/22/file_7/446116,"115,89",40599e4b
+132,Playbills 129 ,Playbills 129 (1),447780,22 de sep de 10,015299304_3532_Playbills 129 (1),/2010/09/22/file_9/447780,"435,29",MISSING
+131,Playbills 129 ,Playbills 129 (2),447175,22 de sep de 10,015299304_2928_Playbills 129 (2),/2010/09/22/file_8/447175,"373,72",4059a97f
+77,Playbills 13 ,Playbills 13 (1),427731,20 de sep de 10,014933562_2054_Playbills 13 (1),/2010/09/20/file_9/427731,"298,87",3fa2cd64
+81,Playbills 13 ,Playbills 13 (2),428931,20 de sep de 10,014933562_3250_Playbills 13 (2),/2010/09/20/file_10/428931,"362,48",3fa2d5c5
+135,Playbills 131,Playbills 131,448404,23 de sep de 10,015299309_7_Playbills 131,/2010/09/23/file_1/448404,"355,98",4059cbac
+140,Playbills 134 ,Playbills 134 (1),450224,23 de sep de 10,015299315_1822_Playbills 134 (1),/2010/09/23/file_2/450224,"273,97",4059cc7f
+136,Playbills 134 ,Playbills 134 (2),448868,23 de sep de 10,015299315_470_Playbills 134 (2),/2010/09/23/file_1/448868,"381,56",4059cdf1
+138,Playbills 135 ,Playbills 135 (1),449641,23 de sep de 10,015299318_1241_Playbills 135 (1),/2010/09/23/file_2/449641,"312,95",4059d5f4
+137,Playbills 135 ,Playbills 135 (2),449023,23 de sep de 10,015299318_624_Playbills 135 (2),/2010/09/23/file_1/449023,"86,93",4059d37c
+142,Playbills 136 ,Playbills 136 (1),451089,23 de sep de 10,015299324_2685_Playbills 136 (1),/2010/09/23/file_3/451089,"326,29",4059d1cd
+320,Playbills 136 ,Playbills 136 (2),515537,20 de oct de 10,015299324_1640_Playbills 136 (2),/2010/10/20/file_2/515537,"409,73",4332c833
+141,Playbills 137 ,Playbills 137 (1),450406,23 de sep de 10,015299329_2003_Playbills 137 (1),/2010/09/23/file_3/450406,"86,55",4059cf6f
+143,Playbills 137 ,Playbills 137 (2),451296,23 de sep de 10,015299329_2891_Playbills 137 (2),/2010/09/23/file_3/451296,"339,97",4059d08a
+144,Playbills 139 ,Playbills 139 (1),451761,23 de sep de 10,015299338_3354_Playbills 139 (1),/2010/09/23/file_4/451761,"325,07",4059ac67
+139,Playbills 139 ,Playbills 139 (2),449872,23 de sep de 10,015299338_1471_Playbills 139 (2),/2010/09/23/file_2/449872,"144,95",4059d4e8
+17,Playbills 14,Playbills 14,381505,8 de sep de 10,014935183_1633_Playbills 14,/2010/09/08/file_2/381505,"546,1",3f9cb55e
+148,Playbills 140 ,Playbills 140 (1),453015,23 de sep de 10,015299340_1044_Playbills 140 (1),/2010/09/23/file_5/453015,"107,53",405a00e7
+145,Playbills 140 ,Playbills 140 (2),452096,23 de sep de 10,015299340_128_Playbills 140 (2),/2010/09/23/file_4/452096,"166,45",405a02e6
+150,Playbills 141 ,Playbills 141 (1),453559,23 de sep de 10,015305487_1586_Playbills 141 (1),/2010/09/23/file_6/453559,"134,59",405a0428
+146,Playbills 141 ,Playbills 141 (2),452470,23 de sep de 10,015305487_501_Playbills 141 (2),/2010/09/23/file_5/452470,"109,19",4059feab
+151,Playbills 142 ,Playbills 142 (1),453724,23 de sep de 10,015305491_1750_Playbills 142 (1),/2010/09/23/file_6/453724,"394,15",4059ffd1
+149,Playbills 142 ,Playbills 142 (2),453309,23 de sep de 10,015305491_1337_Playbills 142 (2),/2010/09/23/file_5/453309,"388,23",4059fc78
+152,Playbills 143 ,Playbills 143 (1),454031,23 de sep de 10,015305498_2056_Playbills 143 (1),/2010/09/23/file_6/454031,"376,09",405a01d7
+147,Playbills 143 ,Playbills 143 (2),452766,23 de sep de 10,015305498_796_Playbills 143 (2),/2010/09/23/file_5/452766,"372,69",4059d797
+154,Playbills 146 ,Playbills 146 (1),454681,23 de sep de 10,015305510_491_Playbills 146 (1),/2010/09/23/file_7/454681,"483,53",4059fd8a
+153,Playbills 146 ,Playbills 146 (2),454315,23 de sep de 10,015305510_126_Playbills 146 (2),/2010/09/23/file_6/454315,"452,18",405a0686
+155,Playbills 146 ,Playbills 146 (3),454895,23 de sep de 10,015305510_704_Playbills 146 (3),/2010/09/23/file_7/454895,"513,87",405a0555
+157,Playbills 147 ,Playbills 147 (1),455464,24 de sep de 10,015305519_392_Playbills 147 (1),/2010/09/24/file_1/455464,"143,89",405a2998
+164,Playbills 147 ,Playbills 147 (2),457217,24 de sep de 10,015305519_2137_Playbills 147 (2),/2010/09/24/file_3/457217,"211,58",405a07ab
+14,Playbills 15,Playbills 15,380226,8 de sep de 10,014936797_357_Playbills 15,/2010/09/08/file_1/380226,"543,54",3f9ca2c6
+165,Playbills 150 ,Playbills 150 (1),457404,24 de sep de 10,015305529_2323_Playbills 150 (1),/2010/09/24/file_3/457404,"365,3",405a2c00
+156,Playbills 150 ,Playbills 150 (2),455234,24 de sep de 10,015305529_163_Playbills 150 (2),/2010/09/24/file_1/455234,"357,53",405a2a67
+159,Playbills 151 ,Playbills 151 (1),455755,24 de sep de 10,015325092_681_Playbills 151 (1),/2010/09/24/file_1/455755,"361,91",405a2f54
+161,Playbills 151 ,Playbills 151 (2),456350,24 de sep de 10,015325092_1274_Playbills 151 (2),/2010/09/24/file_2/456350,"379,21",405a27bc
+163,Playbills 153 ,Playbills 153 (1),456923,24 de sep de 10,015325100_1844_Playbills 153 (1),/2010/09/24/file_2/456923,"98,89",405a2ce9
+158,Playbills 153 ,Playbills 153 (2),455552,24 de sep de 10,015325100_479_Playbills 153 (2),/2010/09/24/file_1/455552,"76,58",405a2e88
+15,Playbills 16,Playbills 16,380711,8 de sep de 10,014936814_841_Playbills 16,/2010/09/08/file_1/380711,"51,6",3f9cb154
+166,Playbills 161 ,Playbills 161 (1),457558,24 de sep de 10,015325107_2476_Playbills 161 (1),/2010/09/24/file_3/457558,"348,09",405a2dc1
+162,Playbills 161 ,Playbills 161 (2),456787,24 de sep de 10,015325107_1709_Playbills 161 (2),/2010/09/24/file_2/456787,"382,78",405a2b47
+160,Playbills 166 ,Playbills 166 (1),455970,24 de sep de 10,015325121_895_Playbills 166 (1),/2010/09/24/file_1/455970,"154,02",MISSING
+319,Playbills 166 ,Playbills 166 (2),515450,20 de oct de 10,015325121_1554_Playbills 166 (2),/2010/10/20/file_2/515450,"190,52",4332c45e
+169,Playbills 168 ,Playbills 168 (1),458449,24 de sep de 10,015326074_771_Playbills 168 (1),/2010/09/24/file_4/458449,"257,7",414b3b94
+167,Playbills 168 ,Playbills 168 (2),457869,24 de sep de 10,015326074_193_Playbills 168 (2),/2010/09/24/file_3/457869,"215,54",414b38db
+13,Playbills 17,Playbills 17,379993,8 de sep de 10,014936817_125_Playbills 17,/2010/09/08/file_1/379993,"31,89",3f9cb36d
+168,Playbills 175,Playbills 175,458263,24 de sep de 10,015326099_586_Playbills 175,/2010/09/24/file_4/458263,"409,56",414b3c54
+170,Playbills 176,Playbills 176,459095,24 de sep de 10,015326105_1416_Playbills 176,/2010/09/24/file_5/459095,"1.463,18",414b399e
+175,Playbills 178 ,Playbills 178 (1),460685,24 de sep de 10,015211339_1573_Playbills 178 (1),/2010/09/24/file_6/460685,"147,43",414bffea
+176,Playbills 178 ,Playbills 178 (2),461208,24 de sep de 10,015211339_2095_Playbills 178 (2),/2010/09/24/file_7/461208,"139,52",414b3e73
+173,Playbills 179 ,Playbills 179 (1),460029,24 de sep de 10,015326118_919_Playbills 179 (1),/2010/09/24/file_5/460029,"51,88",414bfd38
+171,Playbills 179 ,Playbills 179 (2),459193,24 de sep de 10,015326118_85_Playbills 179 (2),/2010/09/24/file_5/459193,"193,82",414bfecb
+16,Playbills 18,Playbills 18,380917,8 de sep de 10,014936821_1046_Playbills 18,/2010/09/08/file_2/380917,"380,04",3f9cb23c
+174,Playbills 180 ,Playbills 180 (1),460482,24 de sep de 10,015326140_1371_Playbills 180 (1),/2010/09/24/file_6/460482,"73,1",414bfb8f
+172,Playbills 180 ,Playbills 180 (2),459814,24 de sep de 10,015326140_705_Playbills 180 (2),/2010/09/24/file_5/459814,"45,29",414c0153
+180,Playbills 181 ,Playbills 181 (1),463191,24 de sep de 10,015328822_1834_Playbills 181 (1),/2010/09/24/file_9/463191,"51,62",414c0302
+181,Playbills 181 ,Playbills 181 (2),463369,24 de sep de 10,015328822_2011_Playbills 181 (2),/2010/09/24/file_9/463369,"565,46",414cb2a8
+178,Playbills 182 ,Playbills 182 (1),462193,24 de sep de 10,015328828_838_Playbills 182 (1),/2010/09/24/file_8/462193,"249,45",414cad32
+177,Playbills 182 ,Playbills 182 (2),461660,24 de sep de 10,015328828_306_Playbills 182 (2),/2010/09/24/file_7/461660,"306,44",414cb104
+179,Playbills 183,Playbills 183,462275,24 de sep de 10,015387250_919_Playbills 183,/2010/09/24/file_8/462275,"293,62",414caed8
+184,Playbills 184 ,Playbills 184 (1),465088,27 de sep de 10,015328840_938_Playbills 184 (1),/2010/09/27/file_2/465088,"168,43",414d6e75
+187,Playbills 184 ,Playbills 184 (2),466558,27 de sep de 10,015328840_2049_Playbills 184 (2),/2010/09/27/file_3/466558,"135,89",414d6fb9
+183,Playbills 185,Playbills 185,464527,27 de sep de 10,015328845_378_Playbills 185,/2010/09/27/file_1/464527,"269,31",414d78fb
+192,Playbills 186 ,Playbills 186 (1),467943,27 de sep de 10,015328850_3429_Playbills 186 (1),/2010/09/27/file_4/467943,"210,9",414e5abf
+189,Playbills 186 ,Playbills 186 (2),467295,27 de sep de 10,015328850_2784_Playbills 186 (2),/2010/09/27/file_4/467295,"208,26",414d77dc
+190,Playbills 187 ,Playbills 187 (1),467334,27 de sep de 10,015341062_2822_Playbills 187 (1),/2010/09/27/file_4/467334,"215,77",414d75b6
+191,Playbills 187 ,Playbills 187 (2),467839,27 de sep de 10,015341062_3326_Playbills 187 (2),/2010/09/27/file_4/467839,"242,6",414d76c8
+21,Playbills 19,Playbills 19,382856,8 de sep de 10,014936826_1317_Playbills 19,/2010/09/08/file_4/382856,"320,68",3f9d1bae
+182,Playbills 193 ,Playbills 193 (1),464463,27 de sep de 10,015341065_315_Playbills 193 (1),/2010/09/27/file_1/464463,"242,28",414d7ded
+193,Playbills 193 ,Playbills 193 (2),468262,27 de sep de 10,015341065_3747_Playbills 193 (2),/2010/09/27/file_5/468262,"386,27",414e5bd1
+185,Playbills 199,Playbills 199,465666,27 de sep de 10,015341069_1515_Playbills 199,/2010/09/27/file_2/465666,"833,79",414d7ad1
+3,Playbills 2,Playbills 2,374164,3 de sep de 10,015376977_44_Playbills 2,/2010/09/03/file_1/374164,"104,28",3f9ba668
+20,Playbills 20,Playbills 20,382675,8 de sep de 10,014936852_1137_Playbills 20,/2010/09/08/file_3/382675,"64,99",3f9d1c97
+186,Playbills 204 ,Playbills 204 (1),465990,27 de sep de 10,015341079_1838_Playbills 204 (1),/2010/09/27/file_3/465990,"153,35",414d7cb2
+188,Playbills 204 ,Playbills 204 (2),466931,27 de sep de 10,015341079_2421_Playbills 204 (2),/2010/09/27/file_3/466931,"161,23",414cb86c
+18,Playbills 21,Playbills 21,381654,8 de sep de 10,014936859_118_Playbills 21,/2010/09/08/file_2/381654,"296,28",3f9d19d0
+206,Playbills 212 ,Playbills 212 (1),472044,27 de sep de 10,015351385_2176_Playbills 212 (1),/2010/09/27/file_9/472044,"195,44",41b2ed0d
+203,Playbills 212 ,Playbills 212 (2),471308,27 de sep de 10,015351385_1443_Playbills 212 (2),/2010/09/27/file_8/471308,"286,23",41b2dd02
+194,Playbills 213 ,Playbills 213 (1),468628,27 de sep de 10,015351394_139_Playbills 213 (1),/2010/09/27/file_5/468628,"229,04",41b2af05
+195,Playbills 213 ,Playbills 213 (2),468898,27 de sep de 10,015351394_408_Playbills 213 (2),/2010/09/27/file_5/468898,"192,41",41b2b448
+198,Playbills 218,Playbills 218,469775,27 de sep de 10,015351408_1282_Playbills 218,/2010/09/27/file_6/469775,"77,89",41b2b1d4
+74,Playbills 22 ,Playbills 22 (1),426789,20 de sep de 10,014939233_1115_Playbills 22 (1),/2010/09/20/file_8/426789,"180,14",3fa2d1af
+78,Playbills 22 ,Playbills 22 (2),428045,20 de sep de 10,014939233_2367_Playbills 22 (2),/2010/09/20/file_9/428045,"212,53",3fa2cf50
+196,Playbills 225 ,Playbills 225 (1),469503,27 de sep de 10,015387256_1012_Playbills 225 (1),/2010/09/27/file_6/469503,"107,13",41b2b336
+197,Playbills 225 ,Playbills 225 (2),469517,27 de sep de 10,015387256_1025_Playbills 225 (2),/2010/09/27/file_6/469517,"103,46",41b2b22d
+73,Playbills 23 ,Playbills 23 (1),426533,20 de sep de 10,014939242_860_Playbills 23 (1),/2010/09/20/file_7/426533,"292,39",3fa2ca3e
+83,Playbills 23 ,Playbills 23 (2),429663,20 de sep de 10,014939242_3980_Playbills 23 (2),/2010/09/20/file_11/429663,"77,09",3fa2d92a
+201,Playbills 233 ,Playbills 233 (1),470693,27 de sep de 10,015363451_830_Playbills 233 (1),/2010/09/27/file_7/470693,"128,74",41b2e0b8
+202,Playbills 233 ,Playbills 233 (2),470906,27 de sep de 10,015363451_1042_Playbills 233 (2),/2010/09/27/file_7/470906,"195,85",41b2db90
+200,Playbills 234 ,Playbills 234 (1),470238,27 de sep de 10,015363456_376_Playbills 234 (1),/2010/09/27/file_7/470238,"146,88",41b2b5bd
+199,Playbills 234 ,Playbills 234 (2),469876,27 de sep de 10,015363456_15_Playbills 234 (2),/2010/09/27/file_6/469876,"165,81",41b2da68
+19,Playbills 24,Playbills 24,382130,8 de sep de 10,014940196_593_Playbills 24,/2010/09/08/file_3/382130,"103,65",3f9d0a1e
+22,Playbills 25,Playbills 25,383407,9 de sep de 10,014940390_480_Playbills 25,/2010/09/09/file_1/383407,"124,8",3f9db960
+204,Playbills 252 ,Playbills 252 (1),471552,27 de sep de 10,015387266_1686_Playbills 252 (1),/2010/09/27/file_8/471552,"112,63",41b2df88
+205,Playbills 252 ,Playbills 252 (2),471816,27 de sep de 10,015387266_1949_Playbills 252 (2),/2010/09/27/file_8/471816,"147,32",41b2de46
+75,Playbills 26 ,Playbills 26 (1),427067,20 de sep de 10,014940417_1392_Playbills 26 (1),/2010/09/20/file_8/427067,"67,71",3fa2ce6a
+72,Playbills 26 ,Playbills 26 (2),426128,20 de sep de 10,014940417_456_Playbills 26 (2),/2010/09/20/file_7/426128,"294,01",3fa2d0b5
+209,Playbills 262 ,Playbills 262 (1),473468,27 de sep de 10,015387276_1105_Playbills 262 (1),/2010/09/27/file_10/473468,"134,7",41bb0d27
+208,Playbills 262 ,Playbills 262 (2),472817,27 de sep de 10,015387276_455_Playbills 262 (2),/2010/09/27/file_9/472817,"187,47",41bb0b85
+213,Playbills 262 ,Playbills 262 (3),474762,27 de sep de 10,015387276_2395_Playbills 262 (3),/2010/09/27/file_11/474762,"320,04",41bb0ecd
+211,Playbills 263 ,Playbills 263 (1),474258,27 de sep de 10,015387285_1893_Playbills 263 (1),/2010/09/27/file_11/474258,"147,24",41bb05c1
+212,Playbills 263 ,Playbills 263 (2),474304,27 de sep de 10,015387285_1938_Playbills 263 (2),/2010/09/27/file_11/474304,"189,79",41bb1027
+210,Playbills 264 ,Playbills 264 (1),473614,27 de sep de 10,015387361_1250_Playbills 264 (1),/2010/09/27/file_10/473614,"150,7",41bb1191
+207,Playbills 264 ,Playbills 264 (2),472404,27 de sep de 10,015387361_43_Playbills 264 (2),/2010/09/27/file_9/472404,"116,45",41bb0488
+215,Playbills 266,Playbills 266,475671,28 de sep de 10,015395299_697_Playbills 266,/2010/09/28/file_1/475671,"204,64",41bb131f
+23,Playbills 27,Playbills 27,383561,9 de sep de 10,015101665_633_Playbills 27,/2010/09/09/file_1/383561,"451,67",3f9db65c
+222,Playbills 276 ,Playbills 276 (1),477889,28 de sep de 10,015395327_2908_Playbills 276 (1),/2010/09/28/file_3/477889,"175,45",41bb2436
+218,Playbills 276 ,Playbills 276 (2),476663,28 de sep de 10,015395327_1686_Playbills 276 (2),/2010/09/28/file_2/476663,"205,46",41bb2034
+224,Playbills 278 ,Playbills 278 (1),478326,28 de sep de 10,015395338_3343_Playbills 278 (1),/2010/09/28/file_4/478326,"206,05",41bb1921
+223,Playbills 278 ,Playbills 278 (2),478252,28 de sep de 10,015395338_3270_Playbills 278 (2),/2010/09/28/file_4/478252,"229,74",41bb1eee
+24,Playbills 28,Playbills 28,384027,9 de sep de 10,015101729_1098_Playbills 28,/2010/09/09/file_2/384027,"329,69",3f9db80f
+219,Playbills 280 ,Playbills 280 (1),476843,28 de sep de 10,015395353_1865_Playbills 280 (1),/2010/09/28/file_2/476843,"193,77",41bb21dc
+214,Playbills 280 ,Playbills 280 (2),475276,28 de sep de 10,015395353_303_Playbills 280 (2),/2010/09/28/file_1/475276,"275,98",42bb22cd
+221,Playbills 282,Playbills 282,477418,28 de sep de 10,015395374_2438_Playbills 282,/2010/09/28/file_3/477418,"231,46",41bb1d3f
+216,Playbills 283,Playbills 283,475972,28 de sep de 10,015395443_997_Playbills 283,/2010/09/28/file_1/475972,"372,96",41bb1a4f
+217,Playbills 285 ,Playbills 285 (1),476487,28 de sep de 10,015395448_1511_Playbills 285 (1),/2010/09/28/file_2/476487,"139,95",41bb1c22
+220,Playbills 285 ,Playbills 285 (2),477130,28 de sep de 10,015395448_2151_Playbills 285 (2),/2010/09/28/file_3/477130,"130,82",41bb2544
+230,Playbills 287,Playbills 287,480264,28 de sep de 10,015395459_1669_Playbills 287,/2010/09/28/file_6/480264,"278,3",41bb338c
+25,Playbills 29,Playbills 29,384684,13 de sep de 10,015101735_120_Playbills 29,/2010/09/13/file_1/384684,"276,99",3f9dbdb9
+225,Playbills 291 ,Playbills 291 (1),478616,28 de sep de 10,015395465_26_Playbills 291 (1),/2010/09/28/file_4/478616,"172,81",41bb17d4
+226,Playbills 291 ,Playbills 291 (2),479217,28 de sep de 10,015395465_626_Playbills 291 (2),/2010/09/28/file_5/479217,"201,76",41bb3b85
+227,Playbills 297 ,Playbills 297 (1),479508,28 de sep de 10,015395477_916_Playbills 297 (1),/2010/09/28/file_5/479508,"123,32",41bb4047
+229,Playbills 297 ,Playbills 297 (2),479867,28 de sep de 10,015395477_1273_Playbills 297 (2),/2010/09/28/file_5/479867,"272,18",41bb3f1c
+1,Playbills 3,Playbills 3,373391,2 de sep de 10,015376986_187_Playbills 3,/2010/09/02/file_1/373391,"41,87",3f9b93cd
+26,Playbills 30,Playbills 30,384996,13 de sep de 10,015102020_431_Playbills 30,/2010/09/13/file_1/384996,"87,65",3f9dbea7
+228,Playbills 306 ,Playbills 306 (1),479627,28 de sep de 10,015395732_1034_Playbills 306 (1),/2010/09/28/file_5/479627,"128,91",41bb3cbe
+231,Playbills 306 ,Playbills 306 (2),480775,28 de sep de 10,015395732_2179_Playbills 306 (2),/2010/09/28/file_6/480775,"131,91",41bb3a56
+316,Playbills 324,Playbills 324,514476,20 de oct de 10,015404230_583_Playbills 324,/2010/10/20/file_1/514476,"377,16",4332b851
+234,Playbills 325,Playbills 325,482680,28 de sep de 10,015404243_1724_Playbills 325,/2010/09/28/file_8/482680,"344,87",41bb53f8
+232,Playbills 327 ,Playbills 327 (1),481697,28 de sep de 10,015396108_743_Playbills 327 (1),/2010/09/28/file_7/481697,"141,53",41bb5189
+233,Playbills 327 ,Playbills 327 (2),482063,28 de sep de 10,015396108_1108_Playbills 327 (2),/2010/09/28/file_8/482063,"180,18",41bb52c9
+254,Playbills 329,Playbills 329,486511,29 de sep de 10,015406439_2616_Playbills 329,/2010/09/29/file_3/486511,"324,86",41bb6953
+245,Playbills 330,Playbills 330,484478,29 de sep de 10,015406629_593_Playbills 330,/2010/09/29/file_1/484478,"456,21",41bb4e45
+239,Playbills 348,Playbills 348,483427,28 de sep de 10,015410005_592_Playbills 348,/2010/09/28/file_9/483427,"66,7",41bb5658
+27,Playbills 35,Playbills 35,385113,13 de sep de 10,015119502_547_Playbills 35,/2010/09/13/file_1/385113,"268,62",3f9dbbd5
+237,Playbills 358,Playbills 358,483258,28 de sep de 10,015395629_425_Playbills 358,/2010/09/28/file_9/483258,"95,34",41bb4d8d
+4,Playbills 4,Playbills 4,374684,3 de sep de 10,015376991_231_Playbills 4,/2010/09/03/file_2/374684,"113,39",3f9bd39b
+28,Playbills 40,Playbills 40,385373,13 de sep de 10,015119667_806_Playbills 40,/2010/09/13/file_1/385373,"266,41",3f9dc0b9
+235,Playbills 400,Playbills 400,482950,28 de sep de 10,015396442_119_Playbills 400,/2010/09/28/file_8/482950,"43,31",41bb50d7
+240,Playbills 401,Playbills 401,483726,28 de sep de 10,015396447_890_Playbills 401,/2010/09/28/file_9/483726,"65,94",41bb56f1
+236,Playbills 402,Playbills 402,483051,28 de sep de 10,015399092_219_Playbills 402,/2010/09/28/file_9/483051,"26,28",41bb4bc2
+241,Playbills 403,Playbills 403,483788,28 de sep de 10,015398498_951_Playbills 403,/2010/09/28/file_9/483788,"15,26",41bb4cd1
+238,Playbills 404,Playbills 404,483305,28 de sep de 10,015398634_471_Playbills 404,/2010/09/28/file_9/483305,"16,29",41bb4d11
+242,Playbills 406,Playbills 406,483853,28 de sep de 10,015398737_1015_Playbills 406,/2010/09/28/file_9/483853,"11,51",41bb4d56
+256,Playbills 407,Playbills 407,487036,29 de sep de 10,015398743_3139_Playbills 407,/2010/09/29/file_4/487036,"58,88",41bb6cb7
+248,Playbills 408,Playbills 408,485759,29 de sep de 10,015410348_1870_Playbills 408,/2010/09/29/file_2/485759,"24,84",41bb6638
+249,Playbills 409,Playbills 409,485832,29 de sep de 10,015398765_1942_Playbills 409,/2010/09/29/file_2/485832,"37,78",41bb61cf
+29,Playbills 41,Playbills 41,385443,14 de sep de 10,015289813_51_Playbills 41,/2010/09/14/file_1/385443,"211,41",3f9dbd50
+247,Playbills 410,Playbills 410,485458,29 de sep de 10,015399265_1571_Playbills 410,/2010/09/29/file_2/485458,"33,22",41bb67ba
+244,Playbills 412,Playbills 412,484296,29 de sep de 10,015399397_412_Playbills 412,/2010/09/29/file_1/484296,"44,37",41bb4c29
+253,Playbills 413,Playbills 413,486403,29 de sep de 10,015414284_2509_Playbills 413,/2010/09/29/file_3/486403,"24,35",41bb6174
+257,Playbills 414,Playbills 414,487221,29 de sep de 10,015414447_3323_Playbills 414,/2010/09/29/file_4/487221,"23,42",41bb603b
+258,Playbills 415,Playbills 415,487247,29 de sep de 10,015399418_3348_Playbills 415,/2010/09/29/file_4/487247,"64,11",41bb6b15
+246,Playbills 416,Playbills 416,485371,29 de sep de 10,015399954_1485_Playbills 416,/2010/09/29/file_2/485371,"101,28",41bb5ec8
+251,Playbills 417,Playbills 417,486256,29 de sep de 10,015426198_2364_Playbills 417,/2010/09/29/file_3/486256,"135,14",41bb6bc8
+32,Playbills 42,Playbills 42,385778,14 de sep de 10,015289816_383_Playbills 42,/2010/09/14/file_1/385778,"278,73",3f9dbfb2
+250,Playbills 420,Playbills 420,485993,29 de sep de 10,015399962_2102_Playbills 420,/2010/09/29/file_3/485993,"52,6",41bb57e7
+243,Playbills 424,Playbills 424,484150,29 de sep de 10,015400290_267_Playbills 424,/2010/09/29/file_1/484150,"92,28",41bb6680
+317,Playbills 425,Playbills 425,514665,20 de oct de 10,015401849_771_Playbills 425,/2010/10/20/file_1/514665,"150,14",4332c54a
+259,Playbills 426,Playbills 426,487469,29 de sep de 10,015403517_3569_Playbills 426,/2010/09/29/file_4/487469,"7,73",41bb6111
+255,Playbills 427,Playbills 427,486929,29 de sep de 10,015441012_3033_Playbills 427,/2010/09/29/file_4/486929,"55,05",41bb6091
+252,Playbills 429,Playbills 429,486329,29 de sep de 10,015402071_2436_Playbills 429,/2010/09/29/file_3/486329,"6,42",41bb6d38
+30,Playbills 43,Playbills 43,385620,14 de sep de 10,015289819_227_Playbills 43,/2010/09/14/file_1/385620,"244,22",3f9dbb4c
+31,Playbills 44,Playbills 44,385701,14 de sep de 10,015289821_307_Playbills 44,/2010/09/14/file_1/385701,"174,97",3f9dc05b
+43,Playbills 46,Playbills 46,388927,14 de sep de 10,015377018_3020_Playbills 46,/2010/09/14/file_4/388927,"241,09",3f9dcf34
+37,Playbills 47,Playbills 47,387286,14 de sep de 10,015377024_1385_Playbills 47,/2010/09/14/file_2/387286,"43,3",3f9dc186
+84,Playbills 48 ,Playbills 48 (1),429791,20 de sep de 10,015108457_4107_Playbills 48 (1),/2010/09/20/file_11/429791,"33,33",3fa2dbfd
+82,Playbills 48 ,Playbills 48 (2),429295,20 de sep de 10,015108457_3613_Playbills 48 (2),/2010/09/20/file_10/429295,"131,12",3fa2d825
+36,Playbills 49,Playbills 49,386851,14 de sep de 10,015108464_951_Playbills 49,/2010/09/14/file_2/386851,"325,94",3f9dd1e3
+7,Playbills 5,Playbills 5,377422,7 de sep de 10,015376997_1159_Playbills 5,/2010/09/07/file_2/377422,"228,06",3f9c454c
+46,Playbills 50,Playbills 50,390380,14 de sep de 10,015108471_4470_Playbills 50,/2010/09/14/file_5/390380,"274,54",3f9de0d0
+45,Playbills 51,Playbills 51,389647,14 de sep de 10,015108474_3738_Playbills 51,/2010/09/14/file_5/389647,"243,34",3f9ddd01
+71,Playbills 52 ,Playbills 52 (1),425734,20 de sep de 10,015108485_63_Playbills 52 (1),/2010/09/20/file_7/425734,"175,77",3fa2d6e4
+79,Playbills 52 ,Playbills 52 (2),428484,20 de sep de 10,015108485_2805_Playbills 52 (2),/2010/09/20/file_9/428484,"202,83",3fa2d31b
+42,Playbills 53,Playbills 53,388283,14 de sep de 10,015108489_2377_Playbills 53,/2010/09/14/file_3/388283,"254,33",3f9dcba3
+47,Playbills 54,Playbills 54,390576,14 de sep de 10,015289824_4665_Playbills 54,/2010/09/14/file_6/390576,"91,2",3f9dd9e6
+39,Playbills 55,Playbills 55,387687,14 de sep de 10,015110455_1784_Playbills 55,/2010/09/14/file_3/387687,"139,61",3f9dce90
+35,Playbills 56,Playbills 56,386562,14 de sep de 10,015110461_663_Playbills 56,/2010/09/14/file_2/386562,"35,06",3f9dd4e6
+49,Playbills 57,Playbills 57,391543,14 de sep de 10,015289826_5630_Playbills 57,/2010/09/14/file_7/391543,"116,09",3f9ddee3
+34,Playbills 58,Playbills 58,386371,14 de sep de 10,015110466_473_Playbills 58,/2010/09/14/file_1/386371,"38,53",3f9dc9bb
+38,Playbills 59,Playbills 59,387491,14 de sep de 10,015110473_1589_Playbills 59,/2010/09/14/file_3/387491,"144,62",3f9dd0f5
+5,Playbills 6,Playbills 6,376362,7 de sep de 10,015377004_101_Playbills 6,/2010/09/07/file_1/376362,"146,31",3f9c41ce
+80,Playbills 60 ,Playbills 60 (1),428746,20 de sep de 10,015110602_3066_Playbills 60 (1),/2010/09/20/file_10/428746,"232,16",3fa2daab
+76,Playbills 60 ,Playbills 60 (2),427414,20 de sep de 10,015110602_1738_Playbills 60 (2),/2010/09/20/file_8/427414,"241,36",3fa2d459
+48,Playbills 61,Playbills 61,391097,14 de sep de 10,015289831_5185_Playbills 61,/2010/09/14/file_6/391097,"32,62",3f9dd8eb
+96,Playbills 62 ,Playbills 62 (1),434126,21 de sep de 10,015110606_4094_Playbills 62 (1),/2010/09/21/file_5/434126,"215,83",40009634
+95,Playbills 62 ,Playbills 62 (2),433725,21 de sep de 10,015110606_3694_Playbills 62 (2),/2010/09/21/file_4/433725,"235,42",400093aa
+40,Playbills 63,Playbills 63,387790,14 de sep de 10,015110618_1886_Playbills 63,/2010/09/14/file_3/387790,"32,11",3f9dcaac
+44,Playbills 64,Playbills 64,389493,14 de sep de 10,015289834_3585_Playbills 64,/2010/09/14/file_5/389493,"296,76",3f9dd5c5
+41,Playbills 65,Playbills 65,388081,14 de sep de 10,015110738_2176_Playbills 65,/2010/09/14/file_3/388081,"151,38",3f9dd402
+33,Playbills 66,Playbills 66,386038,14 de sep de 10,015110742_141_Playbills 66,/2010/09/14/file_1/386038,"39,99",3f9ddbdf
+50,Playbills 67,Playbills 67,410017,16 de sep de 10,015289838_65_Playbills 67,/2010/09/16/file_7/410017,"193,54",3fa27e11
+52,Playbills 68,Playbills 68,410793,16 de sep de 10,015110747_839_Playbills 68,/2010/09/16/file_7/410793,"416,96",3fa27f5e
+86,Playbills 69 ,Playbills 69 (1),430619,21 de sep de 10,015110610_597_Playbills 69 (1),/2010/09/21/file_1/430619,"288,76",40006f17
+92,Playbills 69 ,Playbills 69 (2),432635,21 de sep de 10,015110610_2607_Playbills 69 (2),/2010/09/21/file_3/432635,"343,32",40007509
+8,Playbills 7,Playbills 7,377643,7 de sep de 10,014933465_1379_Playbills 7,/2010/09/07/file_2/377643,"253,03",3f9c4385
+91,Playbills 70 ,Playbills 70 (1),432314,21 de sep de 10,015289844_2287_Playbills 70 (1),/2010/09/21/file_3/432314,"289,5",4000766d
+85,Playbills 70 ,Playbills 70 (2),430287,21 de sep de 10,015289844_266_Playbills 70 (2),/2010/09/21/file_1/430287,"253,66",40009798
+87,Playbills 71 ,Playbills 71 (1),430861,21 de sep de 10,015289853_838_Playbills 71 (1),/2010/09/21/file_1/430861,"286,8",400077bb
+93,Playbills 71 ,Playbills 71 (2),432864,21 de sep de 10,015289853_2835_Playbills 71 (2),/2010/09/21/file_3/432864,"247,69",40007902
+51,Playbills 73,Playbills 73,410359,16 de sep de 10,015289862_406_Playbills 73,/2010/09/16/file_7/410359,"282,89",3fa04f18
+94,Playbills 77 ,Playbills 77 (1),433440,21 de sep de 10,015377032_3410_Playbills 77 (1),/2010/09/21/file_4/433440,"114,68",40009510
+88,Playbills 77 ,Playbills 77 (2),431126,21 de sep de 10,015377032_1102_Playbills 77 (2),/2010/09/21/file_2/431126,"96,98",400071fc
+55,Playbills 78,Playbills 78,412041,16 de sep de 10,015377046_1003_Playbills 78,/2010/09/16/file_9/412041,"188,77",3fa285c7
+53,Playbills 79,Playbills 79,411165,16 de sep de 10,015377053_129_Playbills 79,/2010/09/16/file_8/411165,"160,28",3fa28130
+6,Playbills 8,Playbills 8,376815,7 de sep de 10,014933499_553_Playbills 8,/2010/09/07/file_1/376815,"242,32",3f9bfa18
+56,Playbills 80,Playbills 80,412267,16 de sep de 10,015377647_1228_Playbills 80,/2010/09/16/file_9/412267,"37,14",3fa282c5
+54,Playbills 81,Playbills 81,411740,16 de sep de 10,015377665_703_Playbills 81,/2010/09/16/file_8/411740,"37,06",3fa28447
+57,Playbills 82,Playbills 82,417986,17 de sep de 10,015377671_85_Playbills 82,/2010/09/17/file_1/417986,"38,94",3fa293c9
+64,Playbills 83,Playbills 83,422776,20 de sep de 10,015377682_3243_Playbills 83,/2010/09/20/file_4/422776,"43,98",3fa2b78e
+65,Playbills 84,Playbills 84,423192,20 de sep de 10,015378277_3658_Playbills 84,/2010/09/20/file_4/423192,"42,11",3fa2b069
+61,Playbills 85,Playbills 85,420909,20 de sep de 10,015378283_1380_Playbills 85,/2010/09/20/file_2/420909,"47,25",3fa2ab1b
+58,Playbills 86,Playbills 86,419556,20 de sep de 10,015378288_30_Playbills 86,/2010/09/20/file_1/419556,"48,17",3fa2b601
+62,Playbills 87,Playbills 87,421536,20 de sep de 10,015378292_2006_Playbills 87,/2010/09/20/file_3/421536,"43,04",3fa2a8c1
+70,Playbills 88,Playbills 88,425302,20 de sep de 10,015110757_5689_Playbills 88,/2010/09/20/file_6/425302,"51,87",3fa2acbd
+318,Playbills 89,Playbills 89,515004,20 de oct de 10,015110765_1109_Playbills 89,/2010/10/20/file_2/515004,"209,84",4332c649
+9,Playbills 9,Playbills 9,378301,7 de sep de 10,014933512_301_Playbills 9,/2010/09/07/file_3/378301,"242,33",3f9c9c69
+66,Playbills 90,Playbills 90,423589,20 de sep de 10,015110771_4054_Playbills 90,/2010/09/20/file_5/423589,"212,8",3fa2b940
+59,Playbills 91,Playbills 91,420193,20 de sep de 10,015110787_666_Playbills 91,/2010/09/20/file_1/420193,"229,66",3fa2a6f6
+89,Playbills 92 ,Playbills 92 (1),431449,21 de sep de 10,015290250_1424_Playbills 92 (1),/2010/09/21/file_2/431449,"215,61",40007096
+97,Playbills 92 ,Playbills 92 (2),434473,21 de sep de 10,015290250_4440_Playbills 92 (2),/2010/09/21/file_5/434473,"183,33",400091c3
+68,Playbills 93,Playbills 93,424568,20 de sep de 10,015290256_5027_Playbills 93,/2010/09/20/file_6/424568,"218,97",3fa2ae71
+63,Playbills 94,Playbills 94,422586,20 de sep de 10,015176393_3054_Playbills 94,/2010/09/20/file_4/422586,"80,89",3fa2b3ff
+60,Playbills 95,Playbills 95,420659,20 de sep de 10,015176555_1131_Playbills 95,/2010/09/20/file_2/420659,"296,46",3fa2a51c
+67,Playbills 96,Playbills 96,424078,20 de sep de 10,015176561_4542_Playbills 96,/2010/09/20/file_5/424078,"139,89",3fa2aa66
+69,Playbills 97,Playbills 97,425103,20 de sep de 10,015176563_5491_Playbills 97,/2010/09/20/file_6/425103,"75,64",3fa2b208
+90,Playbills 98,Playbills 98,431727,21 de sep de 10,015290258_1701_Playbills 98,/2010/09/21/file_2/431727,"246,96",40007317
+104,Playbills 99,Playbills 99,437405,21 de sep de 10,015176648_2752_Playbills 99,/2010/09/21/file_8/437405,"387,58",400cebe2

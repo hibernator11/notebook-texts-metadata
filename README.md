@@ -9,6 +9,8 @@ Example of notebook to extract a dataset as a CSV file from a digital collection
 # topic-modeling-billing
 Topic Modeling based on Digitised Volumes of theatrical English, Scottish, and Irish playbills between 1600 - 1902 from [data.bl.uk](data.bl.uk). [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/topic-modeling-billing.ipynb)
 
+![Topic modeling](images/topic-modeling.png)
+
 # References
 The [GLAM Workbench](https://glam-workbench.github.io/) has been used as inspiration to create this example. In particular, the notebook [Exploring metadata harvested from the Tribune negative collection in the State Library of NSW](https://nbviewer.jupyter.org/github/GLAM-Workbench/ozglam-data-records-of-resistance/blob/master/Exploring-Tribune-negatives-metadata.ipynb).
 

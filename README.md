@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-marc-csv-example/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-texts-example/master)
 
 # notebook-texts-example
 This project includes notebooks to work with datasets that contain text and metadata. 

@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/252769662.svg)](https://zenodo.org/badge/latestdoi/252769662)
 
-# notebook-texts-example
+# notebook-texts-metadata
 This project includes several notebooks to exploit GLAM datasets that contain text and metadata. 
 
-## notebook-marc-csv-example
-This [notebook](Dataset-Extraction-Example.ipynb) extracts a dataset as a CSV file from a digital collection described using MARCXML files. [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
+## dataset-extraction-images
+This [notebook](dataset-extraction-images.ipynb) extracts a dataset as a CSV file from a digital collection described using MARCXML files. [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
 
 This notebook uses a dataset of descriptive metadata from the [Moving Image Archive catalogue](https://data.nls.uk/data/metadata-collections/moving-image-archive/), which is Scotland’s national collection of moving images.
 

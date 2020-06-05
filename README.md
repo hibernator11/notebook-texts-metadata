@@ -6,14 +6,14 @@
 This project includes several notebooks to exploit GLAM datasets that contain text and metadata. 
 
 ## dataset-extraction-images
-This [notebook](dataset-extraction-images.ipynb) extracts a dataset as a CSV file from a digital collection described using MARCXML files. [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/Dataset-Extraction-Example.ipynb)
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-texts-metadata/blob/master/dataset-extraction-images.ipynb) extracts a dataset as a CSV file from a digital collection described using MARCXML files.
 
 We use [Data Package](https://specs.frictionlessdata.io/data-package/) as a simple container format for describing a coherent collection of data in a single 'package'. It provides the basis for convenient delivery, installation and management of datasets.
 
 This notebook uses a dataset of descriptive metadata from the [Moving Image Archive catalogue](https://data.nls.uk/data/metadata-collections/moving-image-archive/), which is Scotland’s national collection of moving images.
 
 ## topic-modeling-billing
-This [notebook](topic-modeling-billing.ipynb) extracts the most common words in a corpus of text documents. This notebook is an example of Topic Modeling based on Digitised Volumes of theatrical English, Scottish, and Irish playbills between 1600 - 1902 from [data.bl.uk](data.bl.uk). [View notebook in nbviewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/topic-modeling-billing.ipynb)
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-marc-csv-example/blob/master/topic-modeling-billing.ipynb) extracts the most common words in a corpus of text documents. This notebook is an example of Topic Modeling based on Digitised Volumes of theatrical English, Scottish, and Irish playbills between 1600 - 1902 from [data.bl.uk](data.bl.uk).
 
 ![Topic modeling](images/topic-modeling.png)
 
